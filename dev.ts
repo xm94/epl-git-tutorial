@@ -10,3 +10,15 @@ export class Developer{
     }
 
 }
+
+export class player{
+    name: string;
+    spell: string;
+    manaLevel: number;
+
+    constructor(name:string, spell:string, manaLevel:number){
+        this.name = name;
+        this.spell = spell;
+        this.manaLevel = manaLevel;
+    }
+}
