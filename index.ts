@@ -1,4 +1,5 @@
 import { Developer } from "./dev";
+import { character } from "./hana";
 
 console.log("Hello world!");
 
@@ -10,4 +11,5 @@ console.log(xavier);
 
 console.log(bryan);
 
+console.log(character);
 
