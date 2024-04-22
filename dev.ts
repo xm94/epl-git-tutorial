@@ -5,7 +5,7 @@ export class Developer{
 
     constructor(name:string, language:string,specialization:string|null){
         this.name=name;
-        this.language=name;
+        this.language=language;
         this.specialization=specialization;
     }
 
