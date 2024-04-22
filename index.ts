@@ -9,7 +9,6 @@ let bryan = new Developer("Bryan", ["Java", "Dart"], "Backend");
 
 console.log(xavier);
 
-console.log(bryan);
-
 console.log(character);
 
+console.log(bryan);
