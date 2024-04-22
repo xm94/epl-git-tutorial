@@ -5,7 +5,7 @@ console.log("Hello world!");
 
 let xavier = new Developer("Xavier", ["Typescript", "Java", "Dart"], "Backend");
 
-let bryan = new Developer("Bryan", ["Java", "Dart"], "Backend");
+let bryan = new Developer("Bryan", ["Typescript", "Java", "Dart"], "Backend");
 
 console.log(xavier);
 
